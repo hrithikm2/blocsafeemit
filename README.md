@@ -6,7 +6,8 @@ This is the README for your extension "blocsafeemit". After writing up a brief d
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
-https://github.com/user-attachments/assets/449217cb-959e-4b89-bf91-855ea0857c86
+![safe_emit_demo](https://github.com/user-attachments/assets/e7cbcfbf-d22d-4e31-bec1-db7476cfa0b2)
+
 
 
 
