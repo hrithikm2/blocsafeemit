@@ -6,6 +6,10 @@ This is the README for your extension "blocsafeemit". After writing up a brief d
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
+https://github.com/user-attachments/assets/449217cb-959e-4b89-bf91-855ea0857c86
+
+
+
 For example if there is an image subfolder under your extension project workspace:
 
 \!\[feature X\]\(images/feature-x.png\)
