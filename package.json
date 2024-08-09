@@ -17,8 +17,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "blocsafeemit.helloWorld",
-        "title": "Hello World"
+        "command": "extension.detectAndWrapEmitMethods",
+        "title": "Bloc Safe Emit: Detect and wrap emit methods"
       }
     ]
   },
